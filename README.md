@@ -1,6 +1,6 @@
 # mongo-go-driver-protobuf
 
-This is extension for officional MongoDB Go driver adds support for Google protocol buffers types.
+This is extension for official MongoDB Go driver adds support for Google protocol buffers types.
 
 - [Description](#description)
 - [Links](#links)
